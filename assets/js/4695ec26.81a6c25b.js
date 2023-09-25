@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8617],{3278:e=>{e.exports=JSON.parse('{"label":"Argo Workflow","permalink":"/blog/tags/argo-workflow","allTagsPath":"/blog/tags","count":1}')}}]);

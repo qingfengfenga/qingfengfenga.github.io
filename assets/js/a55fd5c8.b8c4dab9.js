@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[317],{6158:e=>{e.exports=JSON.parse('{"title":"\u5e38\u7528\u6587\u6863","description":"common-documents","slug":"/category/\u5e38\u7528\u6587\u6863","permalink":"/docs/category/\u5e38\u7528\u6587\u6863","navigation":{"next":{"title":"AI","permalink":"/docs/category/ai"}}}')}}]);

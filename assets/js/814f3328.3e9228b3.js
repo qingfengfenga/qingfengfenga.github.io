@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4f7f\u7528 Github Pages \u6258\u7ba1 Docusaurs \u9875\u9762","permalink":"/blog/hosting-docusaurs-pages-using-github-pages"}]}')}}]);
